@@ -1,0 +1,9 @@
+
+alias cdgt="cd ~/Documents/git/gitea"
+alias cdgh="cd ~/Documents/git/github/schlosstom"
+
+alias vww='vim  ~/Documents/git/gitea/VimWiki/readme.md'
+alias vwwu='cd ~/Documents/git/gitea/VimWiki && git add . && \
+            git commit -m update && git push && cd -'
+
+
